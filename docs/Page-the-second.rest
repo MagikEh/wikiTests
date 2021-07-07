@@ -1,1 +1,3 @@
 Hello from the second page!
+
+There's nothing special here other than something for the sidebar to link to...

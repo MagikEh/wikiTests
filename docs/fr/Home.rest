@@ -1,7 +1,0 @@
-==============
-This is the wiki
-==============
-
-This is the first line of the first file.
-
-This is the change from main. (not the wiki project but the main project)

@@ -1,0 +1,30 @@
+======================
+Sidebar de *DOOM* 9000
+======================
+
+=================== =======================
+ Langues
+-------------------------------------------
+ `Anglais <Home>`_   `Français <Home_fr>`_
+=================== =======================
+
+👨🎓️ Principal
+---------------
+* 🏡 `Home <Home_fr>`_
+
+
+🧙 Référence
+------------
+* ☝ `Chose 1 <Page-the-second_fr>`_
+* ✌ `Chose 2 <Page-the-second_fr>`_
+* 🍪 `Tweedledee <Page-the-second_fr>`_
+* 🧁 `Tweedledum <Page-the-second_fr>`_
+
+👷 Developers
+-------------
+* 🏗️ `Compilation <Page-the-second_fr>`_
+* 🤝 `Directives de contribution <Page-the-second_fr>`_
+* ⚖️ `License <Page-the-second_fr>`_
+* 🏭 `Release <Page-the-second_fr>`_
+
+Traduit avec www.DeepL.com/Translator (version gratuite)

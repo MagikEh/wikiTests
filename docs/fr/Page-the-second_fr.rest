@@ -1,0 +1,3 @@
+Bonjour de la deuxième page !
+
+Il n'y a rien de spécial ici, à part un lien vers la barre latérale...

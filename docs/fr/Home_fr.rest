@@ -1,0 +1,27 @@
+================
+Voici le wiki
+================
+
+... contents : :
+
+A propos du wiki
+----------------
+
+Utilisation du texte restructuré pour ce wiki.
+
+Navigation
+----------
+
+La localisation est proposée en ajoutant le code à la fin du nom du fichier. (avant l'extension du fichier)
+Les utilisateurs peuvent passer au français en utilisant la barre latérale ou en ajoutant '``_fr``' à la fin de l'url.
+Pour passer à l'anglais (par défaut), il suffit de supprimer la localisation de l'url ou d'utiliser la barre latérale.
+
+
+ToDo
+----
+- Peut-être inclure un "elevator pitch" ainsi que des indices de navigation plus verbeux qui s'alignent avec la barre latérale.
+- Le français est traduit facilement en utilisant `Deepl <https://www.deepl.com/translator>`_.
+   * On pourrait aussi créer un script pour traduire, créer des répertoires, modifier la barre latérale correspondante pour inclure des liens localisés...
+- Emojiis tirés de `Unicode.org <https://unicode.org/emoji/charts/full-emoji-list.html>`_
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
