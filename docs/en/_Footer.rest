@@ -1,0 +1,4 @@
+This is the footer of the english side of the wiki, visit us for more info at the `main page`_.
+
+.. _main page: Home.rest
+.. _french home: ../fr/Home.rest
