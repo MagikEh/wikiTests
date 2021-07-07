@@ -1,0 +1,3 @@
+This is the footer of the wiki, visit us for more info at the `main page`_.
+
+.. _main page: Home.rest
