@@ -1,0 +1,8 @@
+=====
+Sidebar of *DOOM* 9000
+=====
+
+- This is an item
+- Item 2
+- Itemizer
+- Itemized
