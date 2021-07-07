@@ -7,7 +7,7 @@ This is the wiki
 About the wiki
 --------------
 
-Using restructured text for this wiki.
+Using `retSructuredText <https://docutils.sourceforge.io/rst.html>`_ for this wiki.
 
 Navigation
 ----------

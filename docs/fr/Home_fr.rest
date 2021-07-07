@@ -7,7 +7,7 @@ Voici le wiki
 A propos du wiki
 ----------------
 
-Utilisation du texte restructuré pour ce wiki.
+Utilisation du `retSructuredText <https://docutils.sourceforge.io/rst.html>`_ pour ce wiki.
 
 Navigation
 ----------
