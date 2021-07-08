@@ -7,7 +7,7 @@ This is the wiki
 About the wiki
 --------------
 
-Using `retSructuredText <https://docutils.sourceforge.io/rst.html>`_ for this wiki.
+Using `retSructuredText <https://docutils.sourceforge.io/rst.html>`_ for this wiki as it supports the `direct creation of man pages <https://manpages.debian.org/testing/docutils-common/rst2man.1.en.html>`_.
 
 Navigation
 ----------
