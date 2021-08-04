@@ -1,3 +1,46 @@
+.. include:: ../include.rst
+
+================
+La deuxième page !
+================
+
 Bonjour de la deuxième page !
 
+.. contents: :
+
 Il n'y a rien de spécial ici, à part un lien vers la barre latérale...
+
+Admonitions
+~~~~~~~~~~~
+
+.. tip::
+    Nous pouvons également utiliser les admonitions (attention, prudence, danger, erreur, indice, important, note, conseil, avertissement).
+
+Elles ont tendance à aider à transmettre des informations à différents niveaux d'importance.
+
+.. caution::
+    Ils peuvent distraire les lecteurs, aussi essayez de limiter leur utilisation dans la mesure du possible.
+
+.. danger::
+    Une admonestation qui suit directement une autre s'y engouffre.
+
+Différents
+~~~~~~~~~~
+
+Section
+-------
+
+En-têtes
+@@@@@@@@
+
+Avoir
+#####
+
+Indentation
+$$$$$$$$$$$
+
+Niveaux
+%%%%%%%
+
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
