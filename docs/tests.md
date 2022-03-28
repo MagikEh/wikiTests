@@ -8,3 +8,5 @@ graph LR
     C --> D[Sarra:cvt_gudfx_to_spc.conf]
     D --> E{xpublic}
 ```
+
+sr status builds a structure of the configs in memory
